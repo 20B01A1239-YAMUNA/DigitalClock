@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    border-radius: 5px;
+    
+}
+.Clock{
+   color: palevioletred;
+   position: absolute; 
+   top: 50%;
+   left: 50%;
+   transform: translateX(-50px) translateY(-50px);
+   font-size: 50px;
+   letter-spacing: 5px;
+  
+
+}
